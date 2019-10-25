@@ -9,7 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>api</module>
+        <module>store-security-sdk</module>
+        <module>store-api</module>
+        <module>store-entity</module>
     </modules>
 
     <parent>
