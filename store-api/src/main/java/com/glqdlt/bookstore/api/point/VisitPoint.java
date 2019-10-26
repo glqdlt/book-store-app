@@ -6,4 +6,10 @@ package com.glqdlt.bookstore.api.point;
  * @author glqdlt
  */
 public class VisitPoint extends AbstractPoint {
+    private static final String CODE = "PVA";
+
+    @Override
+    public String getPointCode() {
+        return CODE;
+    }
 }

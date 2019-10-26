@@ -7,4 +7,5 @@ package com.glqdlt.bookstore.api.point;
  */
 public interface Point {
     Long getPoint();
+    String getPointCode();
 }

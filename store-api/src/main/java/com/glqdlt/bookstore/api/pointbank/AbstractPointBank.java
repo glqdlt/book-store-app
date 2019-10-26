@@ -1,4 +1,6 @@
-package com.glqdlt.bookstore.api.point;
+package com.glqdlt.bookstore.api.pointbank;
+
+import com.glqdlt.bookstore.api.point.PointBank;
 
 /**
  * Date 2019-10-25
